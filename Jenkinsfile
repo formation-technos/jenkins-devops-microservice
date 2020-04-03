@@ -35,7 +35,7 @@ pipeline {
 		     echo " i run always"
 		 
 		 }
-		succes {
+		success {
 		      echo " it all ok succes "
 		
 		}
